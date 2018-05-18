@@ -1,0 +1,18 @@
+>>> Email Signature <<<
+
+INSTRUÇÕES:
+
+Abra o arquivo "CaciqDigital_AssinaturaEmail.html" em um editor de texto que comporte a extensão .html 
+	[Dica] Pode ser o Notepad!
+Leia os comentários que estão no arquivo e edite as informações de contato e links.
+Quer ver como está ficando? Salve as alterações e abra o arquivo em um navegador web.
+
+	Como inserir a minha assinatura no Gmail?
+	- Primeiro, selecione a sua nova assinatura (navegador web) com o cursor do mouse e copie (CTRL + C).
+	- Abra o Gmail. Depois, clique na engrenagem no canto superior direito da caixa de entrada do Gmail. Em seguida, clique em Configurações (ou settings em inglês).
+	- Em seguida, na guia "Geral", procure pelo editor de texto no campo "Assinatura" e cole a sua assinatura (CTRL + V).
+
+	Como inserir a minha assinatura no Outlook?
+	- Primeiro, selecione a sua nova assinatura (navegador web) com o cursor do mouse e copie (CTRL + C).
+	- Abra o Outlook. Na guia Mensagem, no grupo "Incluir", selecione "Assinatura" > "Assinaturas".
+	- Feito isso, clique em "Selecione a assinatura a ser editada", escolha "Nova" > "Nova assinatura" e dê um nome para essa assinatura. Vá até o campo "Editar assinatura", cole a sua nova assinatura (CTRL + V) e clique em "OK".
